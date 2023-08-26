@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LazyDeveloperr",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincessV2",
+    "website": "https://github.com/Satiz004",
+    "repository": "https://github.com/Satiz004/ScarlettV2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
