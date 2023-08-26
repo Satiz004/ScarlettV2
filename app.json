@@ -1,8 +1,8 @@
 {
-    "name": "LazyPrincessV2",
-    "description": "LazyPrincess with Url Shortner",
+    "name": "ScarlettV2",
+    "description": "Scarlett with Url Shortner",
     "stack": "container",
-    "logo": "https://telegra.ph/file/68d28011b2bc356b5db01.png",
+    "logo": "https://graph.org/file/09ed6c9a38c58ac6ce3b2.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
